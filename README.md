@@ -2,7 +2,7 @@
 
 <img src="preview-images/gonk-banner.jpg" width="500" height="500" align="centre">
 
-## About
+### About
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
 
 Gonk supports a party of four local players. Your objective is to knock the other player/s off the stage's platform in order to win while looking good doing it with a selection of 10 playable gonks.
