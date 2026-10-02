@@ -12,7 +12,7 @@ Gonk is an original local four player party game, where you can battle up to thr
 <img src="preview-images/bedroom-stage.jpg" width="400" height="400" align="left"> <img src="preview-images/iceberg-stage.jpg" width="400" height="400" align="centre">
 
 ## Additional Information
-This is one of my largest projects as before it was showcased at NextGen Skills Academy's 2023 Graduate Showcase at BAFTA Headquarters to **PlayStation's Byron Atkinson-Jones** and **London's Stanmore College's Vinny Ortenzi**, it was initially revealed at Sunderland College's Graduate Showcase, after a great amount of playtesting and feedback sessions. Throughout these displays, approximately ***7 additional groups of four friends*** revelled in the gameplay together.
+This is one of my largest projects as before it was showcased at NextGen Skills Academy's 2023 Graduate Showcase at BAFTA Headquarters to **PlayStations Byron Atkinson-Jones** and **Stanmore Colleges Vinny Ortenzi**, it was initially revealed at Sunderland College's Graduate Showcase, after a great amount of playtesting and feedback sessions. Throughout these displays, approximately ***7 additional groups of four friends*** revelled in the gameplay together.
 
 During my level 3 experience, I developed Gonk within Unity 2020.3.16f1 utilising the `Will Hong's Dynamic Bone package` and `XboxCtrlrInput made by JISyed` for managing four controllers until I migrated to `Guavaman Enterprises' Rewired` due to the compatibility with WebGL. Additionally the `Xbox button icons were made by Zacksly`.
 
